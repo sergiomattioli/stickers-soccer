@@ -2,7 +2,7 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.soccer",
    "ios_app_store_link":"",
    "sticker_packs":[
-   	  {
+      {
          "identifier":"santos2020",
          "name":"Santos",
          "publisher":"Ant Space",
@@ -107,7 +107,7 @@
             }
          ]
       },
-   	  {
+      {
          "identifier":"racing2020",
          "name":"Racing",
          "publisher":"Ant Space",
@@ -212,7 +212,7 @@
             }
          ]
       },
-   	  {
+      {
          "identifier":"independientemedellin2020",
          "name":"Independiente Medellin",
          "publisher":"Ant Space",
@@ -317,7 +317,7 @@
             }
          ]
       },
-   	  {
+      {
          "identifier":"estudiantesmerida2020",
          "name":"Estudiantes Merida",
          "publisher":"Ant Space",
@@ -422,7 +422,7 @@
             }
          ]
       },
-   	  {
+      {
          "identifier":"delfin2020",
          "name":"Delfin",
          "publisher":"Ant Space",
@@ -527,7 +527,7 @@
             }
          ]
       },
-   	  {
+      {
          "identifier":"defensayjusticia2020",
          "name":"Defensa y Justicia",
          "publisher":"Ant Space",
@@ -632,7 +632,7 @@
             }
          ]
       },
-   	  {
+      {
          "identifier":"caracas2020",
          "name":"Caracas",
          "publisher":"Ant Space",
@@ -737,7 +737,7 @@
             }
          ]
       },
-   	  {
+      {
          "identifier":"americacali2020",
          "name":"America Cali",
          "publisher":"Ant Space",
