@@ -3,6 +3,210 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"messibarca1",
+         "name":"Messi Barcelona",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"memessoccer",
+         "name":"Animated Memes Soccer",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"cska2021",
          "name":"CSKA",
          "publisher":"Astro Mobile",
@@ -3029,7 +3233,7 @@
             }
          ]
       },
-   	{
+      {
          "identifier":"argentina",
          "name":"Argentina",
          "publisher":"Astro Mobile",
@@ -3224,7 +3428,7 @@
             }
          ]
       },
-   	  {
+      {
          "identifier":"cristianoronaldo",
          "name":"Cristiano Ronaldo",
          "publisher":"Astro Mobile",
@@ -3419,7 +3623,7 @@
             }
          ]
       },
-   	  {
+      {
          "identifier":"juventus2020",
          "name":"Juventus",
          "publisher":"Astro Mobile",
@@ -3797,7 +4001,7 @@
             }
          ]
       },
-   	  {
+      {
          "identifier":"dortmund2020",
          "name":"Borussia Dortmund",
          "publisher":"Astro Mobile",
@@ -4187,7 +4391,7 @@
             }
          ]
       },
-   	  {
+      {
          "identifier":"maradona4",
          "name":"Pack Maradona (2)",
          "publisher":"Astro Mobile Soft",
@@ -4382,7 +4586,7 @@
             }
          ]
       },
-   	  {
+      {
          "identifier":"tottenham2020",
          "name":"Tottenham",
          "publisher":"Astro Mobile",
@@ -4736,7 +4940,7 @@
             }
          ]
       },
-   	  {
+      {
          "identifier":"barcelona2020",
          "name":"Barcelona",
          "publisher":"Astro Mobile",
