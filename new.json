@@ -3,8 +3,8 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"euro2020d13",
-         "name":"Euro 2020 Day 13",
+         "identifier":"euro2020o2",
+         "name":"Italy vs Austria",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -173,24 +173,6 @@
             },
             {
                "image_file":"27.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"28.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"29.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"30.webp",
                "emojis":[
                   
                ]
