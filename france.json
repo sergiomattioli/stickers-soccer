@@ -4,7 +4,7 @@
    "sticker_packs":[
       {
          "identifier":"psg2021a",
-         "name":"Paris Saint-Germain (1)",
+         "name":"PSG 2021 (1)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -157,7 +157,7 @@
       },
       {
          "identifier":"psg2021b",
-         "name":"Paris Saint-Germain (2)",
+         "name":"PSG 2021 (2)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
