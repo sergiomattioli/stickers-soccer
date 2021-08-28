@@ -4,7 +4,7 @@
    "sticker_packs":[
       {
          "identifier":"inter2021",
-         "name":"Internazionale 2021",
+         "name":"Inter 2021",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -937,7 +937,7 @@
       },
       {
          "identifier":"inter2020",
-         "name":"Internazionale 2020",
+         "name":"Inter 2020",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
