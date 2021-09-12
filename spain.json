@@ -3,7 +3,7 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"alaves021",
+         "identifier":"alaves2021",
          "name":"Alaves 2021",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
@@ -486,7 +486,7 @@
          ]
       },
       {
-         "identifier":"betis021",
+         "identifier":"betis2021",
          "name":"Real Betis 2021",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
