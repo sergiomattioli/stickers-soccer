@@ -3,6 +3,2205 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"nacional2021",
+         "name":"Nacional 2021",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"penarol2021",
+         "name":"Penarol 2021",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"fenix2021",
+         "name":"Fenix 2021",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"montevideocitytorque2021",
+         "name":"City Torque 2021",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"alianzalima2021",
+         "name":"Alianza 2021",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"cienciano2021",
+         "name":"Cienciano 2021",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"sportingcristal2021",
+         "name":"Sporting Cristal 2021",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"libertad2021",
+         "name":"Libertad 2021",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"olimpia2021",
+         "name":"Olimpia 2021",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"caracas2021",
+         "name":"Caracas 2021",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"deportivolaguaira2021",
+         "name":"Dep. La Guaira 2021",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"deportivolara2021",
+         "name":"Deportivo Lara 2021",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"deportivotachira2021",
+         "name":"Deportivo Tachira 2021",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"salah100goals",
          "name":"Salah 100 Goals",
          "publisher":"Ant Space",
